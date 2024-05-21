@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\PROG8840_Calc"
   ],
-  "SelectedNode": "\\PROG8840_Calc.sln",
+  "SelectedNode": "\\PROG8840_Calc\\main.c",
   "PreviewInSolutionExplorer": false
 }

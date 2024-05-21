@@ -48,11 +48,14 @@ void add() {
     double num1, num2, result;
     printf("Enter the first value:");
     scanf("%lf", &num1);
+    getchar(); 
     printf("Enter the second value:");
     scanf("%lf", &num2);
+    getchar(); 
     result = num1 + num2;
     printf("%lf + %lf = %lf\n", num1, num2, result);
 }
+
 
 void subtract() {
     double num1, num2, result;
